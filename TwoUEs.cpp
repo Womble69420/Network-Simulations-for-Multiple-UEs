@@ -1,6 +1,6 @@
 /** Network Simulator 3.31 LTE Test Program
 * @Author: Sumit Jena
-* @Date: 13 February 2020
+* @Date: 6 April 2020
 */
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
